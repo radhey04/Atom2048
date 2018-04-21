@@ -1,0 +1,118 @@
+{
+    "android": {
+        "GoogleAnalytics": {
+            "trackingCode": "UA-101831454-1", 
+            "anonymizeIp": true
+        }, 
+        "AdMob": {
+            "test": false, 
+            "ads": {
+                "bottomBanner": {
+                    "width": 300, 
+                    "type": "banner", 
+                    "id": "ca-app-pub-7627184204420207/4010339974", 
+                    "alignment": "bottom", 
+                    "height": 50
+                }, 
+                "fullScreenVideoNonRemovable": {
+                    "type": "interstitial", 
+                    "id": "ca-app-pub-7627184204420207/6963806374"
+                }, 
+                "fullScreenImageText": {
+                    "type": "interstitial", 
+                    "id": "ca-app-pub-7627184204420207/5487073176"
+                }
+            }
+        }, 
+        "sdkboxplay": {
+            "leaderboards": [
+                {
+                    "id": "CgkIhayggpYNEAIQAQ", 
+                    "name": "highestscore"
+                }
+            ], 
+            "achievements": [
+            ], 
+            "debug": false, 
+            "connect_on_start": true, 
+            "show_achievement_notification": true
+        }, 
+        "iap": {
+            "items": {
+                "Buy5Diffusers": {
+                    "type": "consumable", 
+                    "id": "com.spark.atom2048.buy5diffusers"
+                },
+                "Buy40Diffusers": {
+                    "type": "consumable", 
+                    "id": "com.spark.atom2048.buy40diffusers"
+                },
+                "UnlockNormalMode": {
+                    "type": "non_consumable", 
+                    "id": "com.spark.atom2048.unlocknormalmode"
+                }, 
+                "RemoveAds": {
+                    "type": "non_consumable", 
+                    "id": "com.spark.atom2048.removeads"
+                }
+            }, 
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzAYb52myh/kGjNbM1JIxFf5/1AixAZy2QjubLWonLbFD86OM1f6Da0m/Eftiv5FZwKBUZPUo+Wzui4AzsCJRKfJOtU3NeMT8pY8RLn9MWxZp2qt53s3aj9TNG2O8bGz7K2r2QdiX0pt0nKf0V/Bk7YlGqTvdC58v1zyqxWDltBjkr5fT3ISSIvZ7HcUy7SJZu0jbj8oYhPXXrM8ltwyjzxE9plYdv1A/5fHe4CijljD9hMYWdIZ1BuPA76w23jjp1VjpiWz/+NInVEOhN4/6uac0I8/qEqn/qHoo/PnvGeuWxC5NJlmz3/JxZ2nig0mUEYAwNm8+rEXL0HipUDr4KQIDAQAB"
+        }
+    }, 
+    "ios": {
+        "GoogleAnalytics": {
+            "track_init_screen": false, 
+            "trackingCode": "UA-101831454-1", 
+            "anonymizeIp": true
+        }, 
+        "AdMob": {
+            "test": false, 
+            "ads": {
+                "bottomBanner": {
+                    "width": 300, 
+                    "type": "banner", 
+                    "id": "ca-app-pub-7627184204420207/4010339974", 
+                    "alignment": "bottom", 
+                    "height": 50
+                }, 
+                "fullScreenVideoNonRemovable": {
+                    "type": "interstitial", 
+                    "id": "ca-app-pub-7627184204420207/6963806374"
+                }, 
+                "fullScreenImageText": {
+                    "type": "interstitial", 
+                    "id": "ca-app-pub-7627184204420207/5487073176"
+                }
+            }
+        }, 
+        "sdkboxplay": {
+            "leaderboards": [
+                {
+                    "id": "com.spark.leaderboard.highestscore", 
+                    "name": "highestscore"
+                }
+            ], 
+            "achievements": [
+            ], 
+            "debug": false, 
+            "connect_on_start": true, 
+            "show_achievement_notification": true
+        }, 
+        "iap": {
+            "items": {
+				"Buy5Diffusers": {
+                    "id": "com.spark.atom2048.buy5diffusers"
+                },
+                "Buy40Diffusers": {
+                    "id": "com.spark.atom2048.buy40diffusers"
+                },
+                "UnlockNormalMode": {
+                    "id": "com.spark.atom2048.unlocknormalmode"
+                },
+                "RemoveAds": {
+                    "id": "com.spark.atom2048.removeads"
+                }
+            }
+        }
+    }
+}

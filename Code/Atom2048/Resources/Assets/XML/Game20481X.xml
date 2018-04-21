@@ -1,0 +1,22 @@
+<psd filename="Game20481X.psd" path="C\Users\radhey\Google Drive\Jobs\Game Development\Assets\1X" width="1366" height="768">
+	<layer name="MainBackground" stack="1" x="0" y="0" width="1366" height="768" transformpoint="center">MainBackground.png</layer>
+	<layer name="GameTitleContainer" stack="2" x="50" y="1243" width="216" height="94" transformpoint="center">GameTitleContainer.png</layer>
+	<layer name="CurrentScoreContainer" stack="3" x="398" y="1243" width="126" height="94" transformpoint="center">CurrentScoreContainer.png</layer>
+	<layer name="BestScoreContainer" stack="4" x="578" y="1243" width="126" height="94" transformpoint="center">BestScoreContainer.png</layer>
+	<layer name="TimerButton" stack="4" x="403" y="1159" width="118" height="51" transformpoint="center">TimerButton.png</layer>
+	<layer name="NewGameContainer" stack="5" x="578" y="1145" width="126" height="65" transformpoint="center">NewGameContainer.png</layer>
+	<layer name="MainSquareContainer" stack="6" x="50" y="349" width="668" height="668" transformpoint="center">MainSquareContainer.png</layer>
+	<layer name="SubSquareContainer00" stack="7" x="431" y="90" width="44" height="44" transformpoint="center">SubSquareContainer00.png</layer>
+	<layer name="SubSquareContainer01" stack="8" x="431" y="90" width="389" height="389" transformpoint="center">SubSquareContainer01.png</layer>
+	<layer name="SubSquareContainer02" stack="9" x="431" y="139" width="44" height="44" transformpoint="center">SubSquareContainer02.png</layer>
+	<layer name="ShareButton" stack="21" x="526" y="185" width="192" height="65" transformpoint="center">ShareButton.png</layer>
+	<layer name="RemoveAdsButton" stack="24" x="286" y="185" width="217" height="65" transformpoint="center">RemoveAdsButton.png</layer>
+	<layer name="RateButton" stack="26" x="49" y="185" width="192" height="65" transformpoint="center">RateButton.png</layer>
+	<layer name="DiffusersDisplay" stack="6" x="614" y="1155" width="102" height="57" transformpoint="center">DiffusersDisplay.png</layer>
+	<layer name="ModeTitle" stack="24" x="49" y="1160" width="126" height="52" transformpoint="center">ModeTitle.png</layer>
+	<layer name="DiffuserContainer" stack="24" x="639" y="1159" width="68" height="53" transformpoint="center">DiffuserContainer.png</layer>
+	<layer name="BombDiffuser" stack="25" x="578" y="1153" width="85" height="85" transformpoint="center">BombDiffuser.png</layer>
+	<layer name="RestartIcon" stack="28" x="345" y="186" width="65" height="65" transformpoint="center">RestartIcon.png</layer>
+	<layer name="RemoveAdsIcon" stack="27" x="504" y="186" width="65" height="65" transformpoint="center">RemoveAdsIcon.png</layer>
+	<layer name="ShareIcon" stack="29" x="654" y="185" width="65" height="65" transformpoint="center">ShareIcon.png</layer>
+</psd>
